@@ -1,6 +1,6 @@
 # Implementing NN architectures from scratch
 
-This is my implementation of various vanilla NN architectures and their "Hello World"'s. The goal is to develop intuitive understanding the inner workings of architectures and be able to play with them!
+This is my implementation of various vanilla NN architectures and their "Hello World"'s in Pytorch. The goal is to develop intuitive understanding the inner workings of architectures and be able to play with them!
 
 - [x] MLP
 - [x] CNN
